@@ -1,0 +1,20 @@
+body{
+  color: black;
+  background-color:beige
+}
+.heading{
+  width: 80%;
+  font-size: 28px;
+}
+.container{
+  text-align: center;
+}
+#camera{
+  width: 350px;
+  height: 350px;
+}
+.name_of_objects,
+#result_object_name,
+#result_object_accuracy {
+  color: rgb(163, 0, 0);
+}
